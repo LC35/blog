@@ -1,2 +1,2 @@
 # blog
-blog前端
+blog
